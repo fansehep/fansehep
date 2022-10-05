@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am **fan**, a student currently studying at Xi'an University of Posts and Telecommunications.
+
+- 🚀 Language of expertise: C/C++, lua, go.
+- 💘 What I like: Any technology on storage / Net Program / Distributed Systems or other charming things.
+- 🤿 Some activity of me: OSPP 2022 Curve,  small interesting activities...
+- 📫 How to reach me: I use [gmail](yfan3763@gmail.com) mainly.
+- 🤔 I'm looking for help with: 
+  - leveldb source code learning and optimization of it.
+  - I will seek an internship about march 2023 year. If you are interested me welcome to contact me. I hope this internship can be transferred storage and transferable.
+- ⚡ Fun fact: any great books about programming, open source culture, Storage, Cloud Native, Distributed System, linux optimize.
