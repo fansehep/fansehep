@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **fansehep/fansehep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **fan**, a student currently studying at Xi'an University of Posts and Telecommunications.
+I am **fan**, a junior currently studying at Xi'an University of Posts and Telecommunications.
 
-- 🚀 Language of expertise: C/C++, lua, go.
 - 💘 What I like: Any technology on storage / Net Program / Distributed Systems or other charming things.
 - 🤿 Some activity of me: OSPP 2022 Curve,  small interesting activities...
-- 📫 How to reach me: I use [gmail](yfan3763@gmail.com) mainly.
+- 📫 How to reach me: Please use [gmail](yfan3763@gmail.com) reach me.
 - 🤔 I'm looking for help with: 
   - leveldb source code learning and optimization of it.
-  - I will seek an internship about march 2023 year. If you are interested me welcome to contact me. I hope this internship can be transferred storage and transferable.
-- ⚡ Fun fact: any great books about programming, open source culture, Storage, Cloud Native, Distributed System, linux optimize.
+  - I will seek an internship about march 2023 year. If you are interested me welcome to contact me. This internship preferably with what i like and it is possibale to transfer.
+- ⚡ Fun fact: any great books about programming, open source culture, Storage, Cloud Native, Distributed System, linux performence optimization.
+- 💌 Hobbies: I am a fanatics of secondary anime.
+  - 🌸 My favorite artwork is [秒速5センチメートル](https://zh.wikipedia.org/zh-sg/%E7%A7%92%E9%80%9F5%E5%85%AC%E5%88%86). "At what speed should i meet you?"
+- 🤯️ Editor of me: The way of any editor is vim.
+- ✨ Some wishes about me: classless, non-discriminatory, friendly, equality Eden.
+- 🗻 Some recent reflections: What is real freedom?
