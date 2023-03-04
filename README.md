@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **fan**, a junior currently studying at Xi'an University of Posts and Telecommunications.
+I am **fan**, a junior currently studying at Xi'an University of Posts and Telecommunications. @[OpenCurve](https://github.com/opencurve/curve) commiter.
 
 - 💘 What I like: Any technology on storage / Net Program / Distributed Systems or other charming things.
 - 🤿 Some activity of me: OSPP 2022 Curve,  small interesting activities...
