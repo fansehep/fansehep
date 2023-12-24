@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am **fan**, I am working about `distributed database storage`.
-
+- I had intern`@ByteDance`Infra::LogService and `@Tencent`Infra::Database.
 - 💘 What I like: when I'm not working, I like to walk around and contribute opensource.
 - 📫 How to reach me: Please use [gmail](yfan3763@gmail.com) reach me.
 - 💌 Hobbies: I am a fanatics of secondary anime.
