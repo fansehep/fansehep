@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **fan**, I am working about `distributed database storage`.
+I am **fan**, I am working about `distributed database storage`. my blog: [fan-blog](https://yang-fanspersonal-organization.gitbook.io/blog/2023-nian-de-hao-yun)
 - I had intern`@ByteDance`infrastructure-storage and `@Tencent`infrastructure-database.
 - 💘 What I like: when I'm not working, I like to walk around and contribute opensource.
 - 📫 How to reach me: Please use [gmail](yfan3763@gmail.com) reach me.
