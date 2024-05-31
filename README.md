@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 
 I am **fan**.
 - 💘 What I like: when I'm not working, I like to walk around and contribute opensource.
-- 📫 How to reach me: Please use [gmail](yfan3763@gmail.com) reach me.
-- 💌 Hobbies: I am a fanatics of secondary anime.
-- 🤯️ Editor of me: The way of any editor is vim.
-- ✨ Some wishes about me: classless, non-discriminatory, friendly, equality Eden.
+- 📫 How to reach me: WechatAccount: `O0X00700` 
 - 🗻 Some recent reflections: What is real freedom?
