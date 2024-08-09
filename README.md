@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am **fan**.
-- 💘 What I like: when I'm not working, I like to walk around and contribute opensource.
-- 📫 How to reach me: WechatAccount: `O0X00700` 
-- 🗻 Some recent reflections: What is real freedom?
+- database enginer, had intern `bytedance` and `tencent` database.
+- WechatAccount: `O0X00700` 
